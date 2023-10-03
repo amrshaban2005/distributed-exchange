@@ -1,0 +1,16 @@
+{
+  "name": "distributed-exchange-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Amr",
+  "license": "ISC",
+  "dependencies": {
+    "exchange-macthing-engine": "^1.1.4",
+    "grenache-nodejs-http": "^0.7.13",
+    "grenache-nodejs-link": "^1.0.0"
+  }
+}

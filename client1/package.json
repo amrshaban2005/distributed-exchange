@@ -1,0 +1,17 @@
+{
+  "name": "distributed-exchange-client1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client1.js",
+  "scripts": {
+    "start": "nodemon client1.js"
+  },
+  "author": "Amr",
+  "license": "ISC",
+  "dependencies": {
+    "exchange-macthing-engine": "^1.1.4",
+    "express": "^4.18.2",
+    "grenache-nodejs-http": "^0.7.13",
+    "grenache-nodejs-link": "^1.0.0"
+  }
+}

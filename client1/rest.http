@@ -1,0 +1,5 @@
+### buy
+POST http://localhost:3000/buy/1000/10
+
+### sell
+POST http://localhost:3000/sell/1000/10
